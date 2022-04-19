@@ -22,6 +22,7 @@ the ratings are:
 - [Ansible](topics/Ansible.md)
 - [Jenkins](topics/Jenkins.md)
 - [Github action](topics/Github-action.md)
-- 
+- [Vault](topics/Vault.md)
+- [Consul](topics/Consul.md)
 
 
