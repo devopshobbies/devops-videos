@@ -12,9 +12,9 @@ the ratings are:
 
 # DevOps-Videos
 
+- [Linux](topics/Linux.md)
 - [Bash](topics/Bash.md)
 - [Terraform](topics/Terraform.md)
-- [Linux](topics/Linux.md)
 - [Docker](topics/Docker.md)
 - [Git](topics/Git.md)
 - [AWS](topics/AWS.md)
@@ -22,6 +22,6 @@ the ratings are:
 - [Ansible](topics/Ansible.md)
 - [Jenkins](topics/Jenkins.md)
 - [Github action](topics/Github-action.md)
-
+- 
 
 
