@@ -16,5 +16,6 @@ the ratings are:
 
 
 :movie_camera: Courses or Playlist
+🌟🌟 [HashiCorp Certified: Terraform Associate 2022](https://www.udemy.com/course/terraform-beginner-to-advanced/)
 
 :memo: Articles
